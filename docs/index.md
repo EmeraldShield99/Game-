@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Chockie's Adventure
+### You can do anything with this that the MIT godot license allows.  Probably not gonna get updated that much
+### This game Was Made with the Godot Engine
 
 You can use the [editor on GitHub](https://github.com/EmeraldShield99/Game-/edit/Main-Branch/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
