@@ -5,7 +5,7 @@ const ACCELERATION = 15
 const MAX_SPEED = 75
 const FRICTION = 8
 const AIR_RESISTANCE = 1
-const GRAVITY = 4
+const GRAVITY = 5
 const JUMP_FORCE = 140
 
 var motion = Vector2.ZERO
