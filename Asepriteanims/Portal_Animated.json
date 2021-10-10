@@ -1,0 +1,67 @@
+{ "frames": [
+   {
+    "filename": "Portal_Animated 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 300, "h": 310 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 310 },
+    "sourceSize": { "w": 300, "h": 310 },
+    "duration": 100
+   },
+   {
+    "filename": "Portal_Animated 1.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 300, "h": 310 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 310 },
+    "sourceSize": { "w": 300, "h": 310 },
+    "duration": 100
+   },
+   {
+    "filename": "Portal_Animated 2.aseprite",
+    "frame": { "x": 600, "y": 0, "w": 300, "h": 310 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 310 },
+    "sourceSize": { "w": 300, "h": 310 },
+    "duration": 100
+   },
+   {
+    "filename": "Portal_Animated 3.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 300, "h": 310 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 310 },
+    "sourceSize": { "w": 300, "h": 310 },
+    "duration": 100
+   },
+   {
+    "filename": "Portal_Animated 4.aseprite",
+    "frame": { "x": 1200, "y": 0, "w": 300, "h": 310 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 310 },
+    "sourceSize": { "w": 300, "h": 310 },
+    "duration": 100
+   },
+   {
+    "filename": "Portal_Animated 5.aseprite",
+    "frame": { "x": 1500, "y": 0, "w": 300, "h": 310 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 300, "h": 310 },
+    "sourceSize": { "w": 300, "h": 310 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.27-x64",
+  "image": "Portal_Animated.png",
+  "format": "RGBA8888",
+  "size": { "w": 1800, "h": 310 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

@@ -1,0 +1,58 @@
+{ "frames": [
+   {
+    "filename": "Weapons 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 18, "h": 12 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 18, "h": 12 },
+    "sourceSize": { "w": 18, "h": 12 },
+    "duration": 100
+   },
+   {
+    "filename": "Weapons 1.aseprite",
+    "frame": { "x": 18, "y": 0, "w": 18, "h": 12 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 18, "h": 12 },
+    "sourceSize": { "w": 18, "h": 12 },
+    "duration": 100
+   },
+   {
+    "filename": "Weapons 2.aseprite",
+    "frame": { "x": 36, "y": 0, "w": 18, "h": 12 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 18, "h": 12 },
+    "sourceSize": { "w": 18, "h": 12 },
+    "duration": 100
+   },
+   {
+    "filename": "Weapons 3.aseprite",
+    "frame": { "x": 54, "y": 0, "w": 18, "h": 12 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 18, "h": 12 },
+    "sourceSize": { "w": 18, "h": 12 },
+    "duration": 100
+   },
+   {
+    "filename": "Weapons 4.aseprite",
+    "frame": { "x": 72, "y": 0, "w": 18, "h": 12 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 18, "h": 12 },
+    "sourceSize": { "w": 18, "h": 12 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.27-x64",
+  "image": "Weapons.png",
+  "format": "RGBA8888",
+  "size": { "w": 90, "h": 12 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}

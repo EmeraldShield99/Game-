@@ -1,0 +1,85 @@
+{ "frames": [
+   {
+    "filename": "Weaponsbig 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 20, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 25 },
+    "sourceSize": { "w": 20, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "Weaponsbig 1.aseprite",
+    "frame": { "x": 20, "y": 0, "w": 20, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 25 },
+    "sourceSize": { "w": 20, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "Weaponsbig 2.aseprite",
+    "frame": { "x": 40, "y": 0, "w": 20, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 25 },
+    "sourceSize": { "w": 20, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "Weaponsbig 3.aseprite",
+    "frame": { "x": 60, "y": 0, "w": 20, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 25 },
+    "sourceSize": { "w": 20, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "Weaponsbig 4.aseprite",
+    "frame": { "x": 80, "y": 0, "w": 20, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 25 },
+    "sourceSize": { "w": 20, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "Weaponsbig 5.aseprite",
+    "frame": { "x": 100, "y": 0, "w": 20, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 25 },
+    "sourceSize": { "w": 20, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "Weaponsbig 6.aseprite",
+    "frame": { "x": 120, "y": 0, "w": 20, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 25 },
+    "sourceSize": { "w": 20, "h": 25 },
+    "duration": 100
+   },
+   {
+    "filename": "Weaponsbig 7.aseprite",
+    "frame": { "x": 140, "y": 0, "w": 20, "h": 25 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 25 },
+    "sourceSize": { "w": 20, "h": 25 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.27-x64",
+  "image": "Weaponsbig.png",
+  "format": "RGBA8888",
+  "size": { "w": 160, "h": 25 },
+  "scale": "1",
+  "frameTags": [
+  ]
+ }
+}
