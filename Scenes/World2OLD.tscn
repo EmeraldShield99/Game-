@@ -1072,7 +1072,7 @@ position = Vector2( 307.937, -479.37 )
 rotation = 3.14159
 scale = Vector2( 0.244582, 0.206484 )
 frames = ExtResource( 10 )
-frame = 2
+frame = 4
 playing = true
 
 [node name="Player2" parent="." instance=ExtResource( 1 )]

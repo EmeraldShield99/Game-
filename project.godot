@@ -16,8 +16,6 @@ run/main_scene="res://Scenes/World.tscn"
 [autoload]
 
 Pause="*res://Scenes/Pause.tscn"
-Net="res://Scripts/network.gd"
-DialogicSingleton="*res://addons/dialogic/Other/DialogicSingleton.gd"
 
 [display]
 

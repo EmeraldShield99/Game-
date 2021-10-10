@@ -47,14 +47,6 @@ func _physics_process(delta):
 
 
 
-
-func _on_FallZone_body_entered(body):
-	get_tree().change_scene("res://Scenes/World.tscn")
-
-
-
-
-
 func _on_Level2Portal_body_entered(body):
 	get_tree().change_scene("res://Scenes/World2.tscn")
 
